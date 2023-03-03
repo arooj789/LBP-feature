@@ -2,6 +2,8 @@ Installation Guidelines: To install and use this MATLAB LBP feature extraction c
 
 • Install MATLAB: To run the MATLAB LBP feature extraction code, you need to have MATLAB installed on your computer. If you do not have MATLAB, you can download and install it from the MathWorks website.
 
+https://www.youtube.com/watch?v=-YEH3EqvLd8
+
 • Install the Image Processing Toolbox: The LBP feature extraction function in MATLAB is part of the Image Processing Toolbox. If you do not have the Image Processing Toolbox installed, you need to install it. You can install it using the "Add-Ons" menu in MATLAB.
 
 • Download the code from Github: Once you have MATLAB and the Image Processing Toolbox installed, you can download this MATLAB LBP feature extraction code from Github. Clone or download the repository to your local machine.
